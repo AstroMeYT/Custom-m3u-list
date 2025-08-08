@@ -167,3 +167,4 @@ https://i.mjh.nz/.r/bbc-news.m3u8|user-agent=otg/1.5.1%20%28AppleTv%20Apple%20TV
 #EXTINF:-1 channel-id="mjh-redbull-tv" tvg-id="mjh-redbull-tv" tvg-logo="https://i.mjh.nz/.images/redbull-tv.png" group-title="Outdoor" , Redbull TV
 https://i.mjh.nz/.r/redbull-tv.m3u8|user-agent=otg/1.5.1%20%28AppleTv%20Apple%20TV%204%3B%20tvOS16.0%3B%20appletv.client%29%20libcurl/7.58.0%20OpenSSL/1.0.2o%20zlib/1.2.11%20clib/1.8.56&seekable=0&referer=%20
 
+
